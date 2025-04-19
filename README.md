@@ -1,10 +1,7 @@
-# Visão Computacional com YOLO 
+##  Sistema de visão computacional com YOLOv5 
 
 Utilizamos a arquitetura YOLOv5 customizada para treinar um modelo com imagens rotuladas manualmente. 
-
-## 🎯 Sistema de visão computacional com YOLOv5 
-
-Neste projeto cria uma POF de um sistema de visão computacional utilizando o modelo YOLOv5. O objetivo era demonstrar na prática a aplicação e eficácia dessa tecnologia em um cenário escolhido livremente.
+Essa é apenas uma POC cujo oobjetivo era testar na prática a aplicação e eficiência dessa tecnologia em um cenário escolhido livremente.
 
 Os objetos escolhidos foram capacetes de segurança e drones, totalizando visando explorar a detecção de objetos tanto no contexto de segurança no trabalho quanto em tecnologias de monitoramento.
 
